@@ -15,7 +15,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 
 ### **Languages**
 
-* Python | JavaScript | C++
+* Python 
 
 ### **AI / ML**
 
